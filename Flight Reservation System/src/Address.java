@@ -1,6 +1,6 @@
 package FlightReservationSystem;
 import java.util.*;
-public class +Address {
+public class Address {
 	public String county, state, city, village, street;
 	
 	public Address( String country, String state,  String city, String village, String street){
