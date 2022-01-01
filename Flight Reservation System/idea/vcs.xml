@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java Code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java Code/Full-Stack-Developer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java Code/JavaMathematics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Java Code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Java Code/Full-Stack-Developer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Java Code/JavaMathematics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/Java Code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/Java Code/Full-Stack-Developer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/com/Java Code/JavaMathematics" vcs="Git" />
+  </component>
+</project>
